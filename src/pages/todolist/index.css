@@ -1,0 +1,14 @@
+.list{
+    margin-top:20px; 
+}
+.list span{
+    padding: 5px 20px;
+    border: 1px solid #f5f5f5;
+    margin-right:10px; 
+}
+.span{
+   float: right;
+}
+.maxbox{
+    width: 800px;
+}
